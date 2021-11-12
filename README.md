@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yaswanth</h1>
-<h3 align="center">Hi,Welcome to my GitHub profile. I'm Yaswanth Satya Kumar Uddagiri, Master of Computer Applications[MCA] from RVR&JC College of Engineering.</h3>
+<h6 align="center">Hi,Welcome to my GitHub profile. I'm Yaswanth Satya Kumar Uddagiri, Master of Computer Applications[MCA] from RVR&JC College of Engineering.</h6>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yaswanthuddagiri&label=Profile%20views&color=0e75b6&style=flat" alt="yaswanthuddagiri" /> </p>
 
@@ -12,6 +12,8 @@
 - 📫 How to reach me **yaswanthsatyakumar123@gmail.com**
 
 - ⚡ Fun fact **When you sure about your code it doesn't work.**
+
+- 😄 Pronouns: He/His
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
