@@ -11,9 +11,11 @@
 
 - 📫 How to reach me **yaswanthsatyakumar123@gmail.com**
 
-- ⚡ Fun fact **When you sure about your code it doesn't work.**
+-😄 Pronouns: **He/His**
 
-- 😄 Pronouns: He/His
+- 🏆 2021 Goals: **Improve myself**
+
+- ⚡ Fun fact **When you sure about your code it doesn't work.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
