@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **yaswanthsatyakumar123@gmail.com**
 
--😄 Pronouns: **He/His**
+- 😄 Pronouns: **He/His**
 
 - 🏆 2021 Goals: **Improve myself**
 
